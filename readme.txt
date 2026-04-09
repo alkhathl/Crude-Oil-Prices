@@ -1,0 +1,1 @@
+This is the initial exploratory analysis to spot trends and figure out which time period and countries to focus on and major political events to dig deeper into. The second submission ML model will be used to find correlation, find statistically significant variables and build a predictive models utilizing geopolitical and supply-side factors.

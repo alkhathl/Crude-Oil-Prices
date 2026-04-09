@@ -1,0 +1,6 @@
+pip install pandas
+pip install requests
+pip install matplotlib
+pip install seaborn
+pip install plotly
+pip install pytest
