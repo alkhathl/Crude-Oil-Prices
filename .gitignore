@@ -1,0 +1,27 @@
+# API keys
+.env
+
+# Data files
+data/*
+!data/.gitkeep
+results/*
+!results/.gitkeep
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+*.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
